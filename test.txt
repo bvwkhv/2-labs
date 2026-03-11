@@ -1,1 +1,1 @@
-Nội dung trang delete
+Nội dung trang csrf
