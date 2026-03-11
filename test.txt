@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nội dung nhánh master
+=======
+Nội dung nhánh test_merge
+>>>>>>> test_merge
